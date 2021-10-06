@@ -121,3 +121,7 @@ body {
     font-weight: bold;
     font-size: 20px;
 }
+
+.text-teal {
+    color: teal;
+}
